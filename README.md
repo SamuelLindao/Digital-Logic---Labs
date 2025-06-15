@@ -1,3 +1,3 @@
 # Digital-Logic---Labs
-Digital Logic class at university, It's a cool class :)
+Digital Logic class at UESC, It's a cool class :)
 Dr.Martha Ximena
